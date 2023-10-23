@@ -1,0 +1,11 @@
+# conda env create --file environment.yml
+name: credit_card_fraud_predictive_model_with_decision_tree_and_random_forest
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.10.12
+  - pip:
+    

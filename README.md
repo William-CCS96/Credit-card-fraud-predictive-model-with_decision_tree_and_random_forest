@@ -4,11 +4,10 @@
 
 <div align="center">
   <h1 align="center">Credit card fraud predictive model<h1>
-  <h2 align="center">Decision tree - Random forest<h1>
+  <h2 align="center">Decision tree - Random forest<h2>
 </div>
 
-<h3 align="center">Introduction<h3>
-
+## Introduction
 This project aims to generate a binomial logistic regression model to classify, based on an examination, whether cancer is benign or malignant.
 
 The work is carried out based on analysis, compression, data cleaning, metrics, testing and validation of the model, with the following work path:
@@ -35,7 +34,7 @@ The work is carried out based on analysis, compression, data cleaning, metrics, 
 - Demonstration of model classification
 - Conclusions
 
-<h3 align="center">Data<h3>
+## Data
 The de kaggel dataset ["Credit card fraud"](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud), contains medical records whether the breast cancer is benign or malignant. The characteristics are transaction data and card records with their respective label, whether it was a fraudulent transaction or not. 
 
 **Attribute Information:**

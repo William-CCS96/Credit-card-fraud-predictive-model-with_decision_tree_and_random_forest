@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <h1 align="center">Proyect name<h1>
-  <h4 align="center">Proyect name</h4>
+  <h1 align="center">Credit card fraud predictive model<h1>
+  <h2 align="center">Decision tree - Random forest<h1>
 </div>
 
 ## Introduction

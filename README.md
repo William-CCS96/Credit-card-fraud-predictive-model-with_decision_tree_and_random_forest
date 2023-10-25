@@ -8,9 +8,9 @@
 </div>
 
 ## Introduction
-This project aims to generate a binomial logistic regression model to classify, based on an examination, whether cancer is benign or malignant.
+This project is aimed at generating a predictive model of credit card fraud using the decision tree algorithm and random forest. Registers are used with variables from the transaction and the card record
 
-The work is carried out based on analysis, compression, data cleaning, metrics, testing and validation of the model, with the following work path:
+The work is carried out based on analysis, compression, data cleaning, metrics, exploration, testing and validation of the model, with the following work path:
 
 - Development
 - Understanding the data
